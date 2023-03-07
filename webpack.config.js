@@ -1,12 +1,14 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const {CleanWebpackPlugin} = require('clean-webpack-plugin');
+const {HotModuleReplacementPlugin} = require('webpack');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 const plugins = [
   new HtmlWebpackPlugin({template: './src/index.html'}),
   new CleanWebpackPlugin(),
   new MiniCssExtractPlugin(),
+  new HotModuleReplacementPlugin(),
 ];
 
 const getFileLoaderOptions = () => ({
@@ -15,6 +17,7 @@ const getFileLoaderOptions = () => ({
 });
 
 module.exports = {
+  mode: 'development',
   entry: './src/index.tsx',
   output: {
     path: path.resolve(__dirname, 'dist'),
@@ -68,6 +71,10 @@ module.exports = {
           loader: 'file-loader',
           options: getFileLoaderOptions(),
         },
+      },
+      {
+        test: /\.(woff|woff2|eot|ttf|otf)$/i,
+        type: 'asset/resource',
       },
       {
         test: /\.mp4$/,
