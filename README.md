@@ -38,16 +38,16 @@ Evgeny Gaag - gaagevgenii@gmail.com
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/Raskolnikoff-D-503/snake-game.svg?style=for-the-badge
-[contributors-url]: https://github.com/Raskolnikoff-D-503/snake-game/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Raskolnikoff-D-503/snake-game.svg?style=for-the-badge
-[forks-url]: https://github.com/Raskolnikoff-D-503/snake-game/network/members
-[stars-shield]: https://img.shields.io/github/stars/Raskolnikoff-D-503/snake-game.svg?style=for-the-badge
-[stars-url]: https://github.com/Raskolnikoff-D-503/snake-game/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Raskolnikoff-D-503/snake-game.svg?style=for-the-badge
-[issues-url]: https://github.com/Raskolnikoff-D-503/snake-game/issues
-[license-shield]: https://img.shields.io/github/license/Raskolnikoff-D-503/snake-game.svg?style=for-the-badge
-[license-url]: https://github.com/Raskolnikoff-D-503/snake-game/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/Raskolnikoff-D-503/webpack-config.svg?style=for-the-badge
+[contributors-url]: https://github.com/Raskolnikoff-D-503/webpack-config/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Raskolnikoff-D-503/webpack-config.svg?style=for-the-badge
+[forks-url]: https://github.com/Raskolnikoff-D-503/webpack-config/network/members
+[stars-shield]: https://img.shields.io/github/stars/Raskolnikoff-D-503/webpack-config.svg?style=for-the-badge
+[stars-url]: https://github.com/Raskolnikoff-D-503/webpack-config/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Raskolnikoff-D-503/webpack-config.svg?style=for-the-badge
+[issues-url]: https://github.com/Raskolnikoff-D-503/webpack-config/issues
+[license-shield]: https://img.shields.io/github/license/Raskolnikoff-D-503/webpack-config.svg?style=for-the-badge
+[license-url]: https://github.com/Raskolnikoff-D-503/webpack-config/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/evgeny-gaag-870b35233
 
